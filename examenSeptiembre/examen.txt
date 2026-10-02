@@ -1,0 +1,5 @@
+En este examen lo que estoy haciendo es meterme a mi repo y poner pwd y magicamente 
+me pone dentro de lab y tengo que entrar a alumnos 
+luego entrar a github y pegarlo en mi repo y crear mi carpeta llamada examen septiembre lo creo 
+y despues crear mi archivo examen.txt luego poner una descripcion de 5 lineas 
+y llevar mi cuaderno al profe y listo.
